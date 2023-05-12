@@ -50,6 +50,9 @@
 **Habilitar o envio de arquivo para o Storage**  
 `php artisan storage:link`
 
+**Conectar co Arduino e BD**  
+'php artisan make:migration LeituraGiordano'
+
 **Iniciar o sistema**  
 `php artisan serve`
 
@@ -72,3 +75,4 @@
 
 **Atualizar arquivos do projeto local de acordo com o repositorio do Git remoto**  
 `git pull`
+
